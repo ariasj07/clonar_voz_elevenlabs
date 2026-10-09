@@ -1,5 +1,8 @@
 # Clonar voz con ElevenLabs
 
+<img width="1280" height="720" alt="image" src="https://github.com/user-attachments/assets/a4c9f4c1-a60f-47cf-b5fa-648ccd4e6a19" />
+
+
 Dos scripts en Python para clonar tu voz con la API de [ElevenLabs](https://elevenlabs.io) y usarla para convertir texto en audio.
 
 Video: https://youtu.be/t5xgk1XGoHg
